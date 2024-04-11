@@ -1,3 +1,9 @@
+//Ctrl+S
+//git add hola.c
+//git commit -m "message"
+//git push
+
+
 #include <stdio.h>
 
 int main()
